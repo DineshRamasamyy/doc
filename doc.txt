@@ -1,11 +1,1 @@
-to create a respositary in GitHub
-cmd prompt;
-/dir
-/git init
-/git status
-/git add 'file name'
-/checking status git status
-/git commit -m "file created"
-/git status
-/git branch -M main
-/git push -u origin main
+git stash
